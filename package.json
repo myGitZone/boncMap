@@ -4,7 +4,7 @@
   "description": "A Vue.js esri map",
   "author": "yanchanglu <513894105@qq.com>",
   "dependencies": {
-    "vue": "^2.3.2"
+    "vue": "^3.0.0"
   },
   "devDependencies": {
     "esri-loader": "^0.1.3"
